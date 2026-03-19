@@ -80,8 +80,6 @@ Your password: G!k9@Lp2#QaZ
 
 ---
 
-# 🇷🇺 Русский
-
 ## 📌 Описание
 
 Это простой проект на Python для генерации безопасных случайных паролей с учетом предпочтений пользователя.
@@ -121,7 +119,7 @@ Your password: G!k9@Lp2#QaZ
 ## ▶️ Как запустить
 
 ```bash id="rurun01"
-git clone https://github.com/oL1VeSss1/password-generator.git
+git clone https://github.com/oL1VeSss1/Generating-random-passwords.git
 cd password-generator
 python generator_random_password.py
 ```

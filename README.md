@@ -49,8 +49,8 @@ The program allows you to:
 ## ▶️ How to Run
 
 ```bash id="enrun01"
-git clone https://github.com/oL1VeSss1/password-generator.git
-cd password-generator
+git clone https://github.com/oL1VeSss1/Generating-random-passwords.git
+cd Generating-random-passwords
 python generator_random_password.py
 ```
 
@@ -120,7 +120,7 @@ Your password: G!k9@Lp2#QaZ
 
 ```bash id="rurun01"
 git clone https://github.com/oL1VeSss1/Generating-random-passwords.git
-cd password-generator
+cd Generating-random-passwords
 python generator_random_password.py
 ```
 
